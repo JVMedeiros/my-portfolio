@@ -1,7 +1,13 @@
 :root {
   --text-primary: white;
   --text-secondary: #B3B3B3;
-  --bg-primary: #2C2C2C
+  --bg-primary: #2C2C2C;
+}
+
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
 }
 
 html,
