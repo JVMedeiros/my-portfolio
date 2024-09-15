@@ -6,10 +6,10 @@ export function Header() {
   return(
     <div className="header">
     <Image
-      src="https://nextjs.org/icons/next.svg"
+      src="/me.jpeg"
       alt="Next.js logo"
-      width={180}
-      height={38}
+      width={325}
+      height={310}
       priority
     />
     <div>
