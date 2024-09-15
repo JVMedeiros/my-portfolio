@@ -1,5 +1,6 @@
 :root {
   --text-primary: white;
+  --bg-primary: #2C2C2C
 }
 
 html,
@@ -8,3 +9,6 @@ body {
   overflow-x: hidden;
 }
 
+body {
+  background-color: var(--bg-primary);
+}
