@@ -5,11 +5,11 @@ import "./styles.scss"
 export function Experience() {
   return (
     <div className="experience">
-    <SectionTitle content="Experience"/>
-    <p>Almost five years working as a Software Developer, in companies such as Hospital Albert Einstein, Zappts and IClubs.IO</p>
-    <div className="experience-time">
+      <SectionTitle content="Experience" />
+      <p>Almost five years working as a Software Developer, in companies such as Hospital Albert Einstein, Zappts and IClubs.IO</p>
+      <div className="experience-time">
 
+      </div>
     </div>
-  </div> 
   )
 }
