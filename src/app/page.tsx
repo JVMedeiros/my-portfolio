@@ -1,4 +1,3 @@
-import Image from 'next/image'
 import { Experience } from './components/experience'
 import { Header } from './components/header'
 import { Info } from './components/information'
