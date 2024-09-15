@@ -2,4 +2,25 @@
   display: flex;
   flex-direction: column;
   align-items: center;
+  max-width: 500px;
+
+  grid-area: experience;
+
+  p {
+    font-weight: 300;
+    font-size: 18px;
+    line-height: 28px;
+    color: var(--text-secondary);
+    text-align: center;
+  }
+
+  @media (min-width: 768px) {
+    align-items: flex-start;
+    p {
+      font-weight: 300;
+      font-size: 24px;
+      line-height: 28px;
+      text-align: start;
+    }
+  }
 }
