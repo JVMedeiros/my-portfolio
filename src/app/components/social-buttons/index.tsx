@@ -17,7 +17,7 @@ export function SocialButtons() {
       <a href="https://github.com/JVMedeiros">
         <GitHubIcon />
       </a>
-      <a href="https://twitter.com/JVMedeiros">
+      <a href="">
         <TwitterIcon />
       </a>
     </div>
