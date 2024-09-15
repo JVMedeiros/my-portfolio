@@ -2,7 +2,6 @@
   display: flex;
   flex-direction: column;
   align-items: center;
-  max-width: 500px;
 
   grid-area: experience;
 
@@ -16,6 +15,7 @@
 
   @media (min-width: 768px) {
     align-items: flex-start;
+    
     p {
       font-weight: 300;
       font-size: 24px;
